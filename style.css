@@ -261,16 +261,16 @@ span
         content: "🧑🏻‍🎓 Student";
     }
     21%, 40% {
-        content: "Aspiring Developer 💻";
+        content: "Developer 💻";
     }
     41%, 60% {
-        content: "Cloud Enthusiast ☁️";
+        content: "☁️ Enthusiast";
     }
     61%, 80% {
-        content: "Future AI Specialist 🤖";
+        content: "AI Enthusiast 🤖";
     }
     81%, 100% {
-        content: "Technology Explorer 🚀";
+        content: "Explorer 🚀";
     }
 }
 
